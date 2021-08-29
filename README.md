@@ -1,6 +1,13 @@
 # Python-OOP-BLOOD_BANK_ASSIGNMENT
 Python file for OOP assignment for  a Blood Bank system
 
+----->PROJECT IN MAIN BRANCH<---------
+-> Menu driven program to manage Blood Bank system
+
+
+
+================================================================
+
 PROJECT PARTNER:
 PRATHAM HARSHVARDHAN DAVE
 
